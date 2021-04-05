@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @smarton2k2
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning Unity
+- 📫 How to reach me hariganation@gmail.com
