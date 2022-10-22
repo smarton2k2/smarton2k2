@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smarton2k2
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity
-- 📫 How to reach me hariganation@gmail.com
+- 👋 Hi, I’m Hari "Smarton" Ganesan.
+- 👀 I’m interested in Game Development and Full Stack Web Development.
+- 🌱 I’m currently working on a 3D Tour system and drone simulator.
+- 📫 How to reach me- hariganation@gmail.com, linkedin.com/in/hari-gana
