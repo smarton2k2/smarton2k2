@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Hari "Smarton" Ganesan.
 - 👀 I’m interested in Game Development and Full Stack Web Development.
 - 🌱 I’m currently working on a 3D Tour system and flight simulator.
-- 📫 How to reach me- hariganation@gmail.com, linkedin.com/in/hari-gana
+- 📫 How to reach me- hariganation@gmail.com, www.linkedin.com/in/hari-gana/
