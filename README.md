@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Hari "Smarton" Ganesan.<br>👀 I’m interested in Game Development and Full Stack Web Development.<br>🔭 I’m currently working on face detection system using GAN's and Digital Twinning of industrial robots.<br>👯 I’m looking to collaborate on 3D games or Digital Twinninng.<br>🤝 You can reach me through email - hariganation@gmail.com or linkedin - www.linkedin.com/in/hari-gana/.<br>🌱 I’m currently learning vaadin and spring frameworking and 3D VFX using Blender.<br>💬 Ask me about the digital future. 
+👋 Hi, I’m Hari "Smarton" Ganesan.<br>👀 I’m interested in Game Development and Full Stack Web Development.<br>🔭 I’m currently working on face detection system using GAN's and Digital Twinning of industrial robots.<br>👯 I’m looking to collaborate on 3D games or Digital Twinninng.<br>🤝 You can reach me through email - hariganation@gmail.com or linkedin - www.linkedin.com/in/hari-gana/.<br>🌱 I’m currently learning vaadin frameworking, spring frameworking and 3D VFX using Blender.<br>💬 Ask me about the digital future. 
 
 
 ## 🌐 Socials:
