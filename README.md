@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Hari Ganesan.<br>👀 I’m interested in Game Development, Full Stack Web Development and AI/ML.<br>🔭 I’m currently working on Digital Twinning of industrial robots.<br>👯 I’m looking to collaborate on 3D games or Digital Twinning.<br>🤝 You can reach me through email - hariganation@gmail.com or linkedin - www.linkedin.com/in/hari-gana/.<br>🌱 I’m currently learning Kotlin and android app development.<br>💬 Ask me about the digital future. 
+👋 Hi, I’m Hari Ganesan.<br>👀 I’m interested in Game Development, Full Stack Web Development and AI/ML.<br>🔭 I’m currently studying at UNSW(University of New South Wales.)<br>👯 I’m looking to collaborate on 3D games or Digital Twinning.<br>🤝 You can reach me through email - hariganation@gmail.com or linkedin - www.linkedin.com/in/hari-gana/.<br>🌱 I’m currently learning Kotlin and android app development.<br>💬 Ask me about the digital future. 
 
 
 ## 🌐 Socials:
