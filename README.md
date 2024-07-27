@@ -11,6 +11,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=smarton2k2&theme=dark&hide_border=false)<br/>
 
-[![](https://visitcount.itsvg.in/api?id=smarton2k2&icon=2&color=3)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
