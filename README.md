@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Hari Ganesan.<br>👀 I’m interested in Game Development, IoT development, Digital twins and AI/ML.<br>🔭 I’m currently PhD candidate at UNSW(University of New South Wales.)<br>👯 I’m looking to collaborate on Digital Twinning and IoT frameworks<br>🤝 You can reach me through email - hari.ganesan@student.unsw.edu.au.<br>🌱 I’m currently learning Kotlin and android app development.<br>💬 Ask me about the digital future. 
+👋 Hi, I’m Hari Ganesan.<br>👀 I’m interested in IoT Development, Digital twins and AI/ML.<br>🔭 I’m currently PhD candidate at UNSW(University of New South Wales.)<br>👯 I’m looking to collaborate on Digital Twinning and IoT frameworks<br>🤝 You can reach me through email - hari.ganesan@student.unsw.edu.au.<br>🌱 I’m currently learning Kotlin and android app development.<br>💬 Ask me about the digital future. 
 
 
 ## 🌐 Socials:
